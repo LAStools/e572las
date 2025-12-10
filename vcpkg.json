@@ -1,0 +1,9 @@
+{
+     "name": "e572las",
+     "version": "1.0.0",
+     "dependencies": [
+       "boost-program-options",
+       "boost-filesystem",
+       "xerces-c"
+     ]
+   }
